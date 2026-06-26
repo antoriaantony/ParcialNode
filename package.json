@@ -1,0 +1,20 @@
+{
+  "name": "parcial_node",
+  "version": "1.0.0",
+  "main": "app.js",
+
+  "scripts": {
+    "start":"node app.js"
+  },
+
+
+  "dependencies": {
+
+    "cors":"latest",
+    "dotenv":"latest",
+    "express":"latest",
+    "mysql2":"latest"
+
+  }
+
+}
